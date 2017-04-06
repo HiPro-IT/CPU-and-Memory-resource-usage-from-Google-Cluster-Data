@@ -17,4 +17,5 @@ Charactristics of the workload traces:
     + Mean: 19.55
     + St. dev: 16.66
     + Median: 12
+
 When you use this dataset, please cite to the original Google cluster workload traces (https://github.com/google/cluster-data) and our paper mentioned above.
